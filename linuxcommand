@@ -1,0 +1,62 @@
+linux command lists 
+cat
+touch
+vi/vim
+nano
+rm
+rm -rf
+mkdir
+mkdir -p
+ls
+ls -l
+ls -lt
+ls -ltr
+ls -a
+rmdir
+cd
+cd ..
+cd ../../
+pwd
+du -sh
+du -sh *
+df -h
+cp
+cp -r
+mv
+echo
+echo -e
+find . -type -iname
+find . -type -mtime
+find . -type -mmin
+find . -type d iname
+find . -type f -empty
+chmod 777 filename
+chmod -r 777
+ln -s
+ln filename h.linkname
+useradd -m username
+vi /etc/group
+su username
+exit
+hostname -i
+hostname
+hostname -f
+uname -a
+uname -v
+from here to connect two or more server
+ssh-keygen
+cd .ssh
+ls
+step2
+ls -a
+cd .ssh
+ls
+step2
+ls -a
+cd .ssh
+ls
+vi authorized
+step3
+ssh root@ip address
+yes
+
